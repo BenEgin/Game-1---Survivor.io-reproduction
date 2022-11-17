@@ -1,0 +1,7 @@
+
+list of things to add:
+
+4: Forcefield charge is displayed in a colorful block that changes its length
+How am I going to do that?
+
+5: New weapons? Should they be timed or permanent for that run? Like building an arsenal?

@@ -1,0 +1,11 @@
+Instructions on how to play:
+
+Menus:
+Click on the text in the main menu to start a new game, go to the options or uit the game.
+If you click "Options", a new window will pop up. This window has the settings in it. Click on the text of the setting to change it. The text of the setting will 
+change and thedisplayed setting is the setting that is active. Hit "Main Menu" to go back to the main menu.
+
+Game:
+Play the game! You have three lives and should try to achieve as many points as possible. The highest score will be saved as a highscore on a seperate text file
+and will be displayed while playing the game. If you need a break or change a setting, just press "p" on your keyboard and the game will be paused. This will lead you 
+to a pause menu, from where you can exit the current game and go back to the main menu. You cann also enter the options menu and continue the game from this point.
